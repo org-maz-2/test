@@ -10,7 +10,7 @@ info:
 servers:
 - url: https://orders.sock-shop
 paths:
-  "/orders-breaking-changes":
+  "/orders-breaking-changes-1":
     post:
       tags:
       - orders
